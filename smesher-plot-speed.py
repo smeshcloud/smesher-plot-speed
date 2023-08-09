@@ -417,7 +417,7 @@ def print_output():
   print(f"Current file ................................ {current_file}")
   print(f"Time since last completed file .............. {most_recent_time_delta_string}")
   print(f"Recent Plotting speed ....................... {recent_throughput_MiBps:.2f} MiB/s")
-  print(f"Average Plot Speed ............... {throughput_MiBps:.2f} MiB/s")
+  print(f"Average Plot Speed .......................... {throughput_MiBps:.2f} MiB/s")
   print(f"Estimated finish time ....................... {recent_etf_string}")
   print(f"Estimated finish date ....................... {efd}")
   if send_report:
