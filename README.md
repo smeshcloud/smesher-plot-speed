@@ -2,7 +2,7 @@
 
 *Also known as **Zanoryt's Enhanced SpaceMesh PoST Plot Speed***.
 
-[smesher-plot-speed screenshot](!smesher-plot-speed-screenshot1.png)
+[smesher-plot-speed screenshot]!(smesher-plot-speed-screenshot1.png)
 
 Measure progress of your SpaceMesh smesher.
 
