@@ -2,6 +2,8 @@
 
 *Also known as **Zanoryt's Enhanced SpaceMesh PoST Plot Speed***.
 
+[smesher-plot-speed screenshot](!smesher-plot-speed-screenshot1.png)
+
 Measure progress of your SpaceMesh smesher.
 
 This was taken from the original `plot_speed.py` and was augmented to add:
