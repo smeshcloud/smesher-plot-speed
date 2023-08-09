@@ -18,7 +18,7 @@ import platform
 import urllib.request
 import subprocess
 
-version = "1.0.1"
+version = "1.0.2"
 uname = platform.uname()
 operating_system = { 'system': None, 'version': None }
 cpu = { 'name': '' }
@@ -32,7 +32,7 @@ print_header = True
 output_json = False
 directory = None
 send_report = False
-github_url = "https://github.com/CryptoZanoryt/spacemesh/tree/main/plot-speed"
+github_url = "https://github.com/smeshcloud/smesher-plot-speed"
 
 
 def calculate_current_post_size_GiB(directory):
