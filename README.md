@@ -15,6 +15,8 @@ This was taken from the original `plot_speed.py` and was augmented to add:
 
 Reports are collected at https://reports.smesh.cloud to show others what to expect from their hardware. You are encouraged to contribute by specifying the optional `--report` flag. Your Node ID is anonymized for privacy.
 
+Contribute SMH to sm1qqqqqqxre24mtprsmuht8gfhu28z95hm22zvrdq34rmr8, much appreciated!
+
 ## Usage
 
 1. Clone the repository.
